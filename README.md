@@ -1,6 +1,8 @@
+
+To start ipython notebook from command prompt type: ipython notebook
+
 #[Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 #### *Using Python and PyMC*
-
 
 
 
